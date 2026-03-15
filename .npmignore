@@ -1,3 +1,4 @@
+node_modules/
 src/
 .gitignore
 .editorconfig
@@ -5,3 +6,4 @@ tsconfig.json
 bun.lock
 TODO.md
 README.md
+
